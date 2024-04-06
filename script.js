@@ -132,7 +132,7 @@ const changeImage= ()=>{
     }else if(weatherMain=="Storm" || weatherMain=="Thunderstorm" || weatherMain=="lightning"){
         weatherImage.src="./images/storm.png";
     }else if(weatherMain=="Clear" ){
-        weatherImage.src="./images/rain.png";
+        weatherImage.src="./images/clear.png";
     }else if(weatherMain=="Haze" ){
         weatherImage.src="./images/haze.png";
     }else{
